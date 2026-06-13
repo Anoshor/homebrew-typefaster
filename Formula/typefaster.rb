@@ -3,8 +3,8 @@ class Typefaster < Formula
 
   desc "Terminal-first typing game (MonkeyType/TypeRacer style) with ghosts and multiplayer"
   homepage "https://github.com/Anoshor/typefaster-cli"
-  url "https://files.pythonhosted.org/packages/a6/db/973703c356f48c623cb78ad6901b8472189c0453ec2f308b72bd3bb1d773/typefaster_cli-0.1.3.tar.gz"
-  sha256 "57b2ca53a69fef0638a4a75bd14e8db84775216a9a9ace6a03a8695d9d5e232b"
+  url "https://files.pythonhosted.org/packages/3f/03/853db12640c33b171967d1b02e2013c2e99dace4b2a620f79519c786927d/typefaster_cli-0.1.4.tar.gz"
+  sha256 "0b304eedb8cb2bc9b29d18afa84e4ba57978c18d2323ecbbbb583f5be3c772c9"
   license "MIT"
 
   depends_on "python@3.12"
